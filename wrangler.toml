@@ -1,3 +1,6 @@
 name = "sveltia-cms-auth"
 main = "src/index.js"
 compatibility_date = "2023-03-24"
+[vars]
+GITHUB_CLIENT_ID = "Ov23lidRZuHE0u8aWjYf"
+ALLOWED_DOMAINS = "acelabs-website.white-bar-6402.workers.dev, www.acelabs.it, acelabs.it"
